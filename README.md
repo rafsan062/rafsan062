@@ -13,7 +13,7 @@ I'm a graduate student pursuing an **M.Sc. in Computer Science** with a speciali
 - Building data-intensive systems and distributed applications
 - Developing full-stack solutions with a focus on data integrity and performance
 
-### 🌟 Highlights
+### Highlights
 - **51% improvement** in air quality forecasting accuracy using LSTM networks
 - Published research on predictive modeling for public health outcomes
 - Former lecturer and research mentor in computational projects
@@ -23,4 +23,4 @@ I'm a graduate student pursuing an **M.Sc. in Computer Science** with a speciali
 - 💼 LinkedIn: [rarafsan](https://linkedin.com/in/rarafsan)
 
 ---
-*Currently based in Seattle, WA 🌲*
+*Currently based in Seattle, WA*
