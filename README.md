@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Rizvan! 👋
 
-<!--
-**rafsan062/rafsan062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a graduate student pursuing an **M.Sc. in Computer Science** with a specialization in **Data Science** at Seattle University. With a background in Civil Engineering, I bring a unique perspective to solving complex problems through data and software engineering.
 
-Here are some ideas to get you started:
+### Tech Stack
+- **Languages:** Python, Java, C/C++, SQL, JavaScript, TypeScript
+- **ML & Data:** PyTorch, Scikit-Learn, XGBoost, Pandas, PySpark, NumPy
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools:** Git, Docker, Jupyter, VS Code, IntelliJ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+- Building data-intensive systems and distributed applications
+- Developing full-stack solutions with a focus on data integrity and performance
+
+### 🌟 Highlights
+- **51% improvement** in air quality forecasting accuracy using LSTM networks
+- Published research on predictive modeling for public health outcomes
+- Former lecturer and research mentor in computational projects
+
+### Let's Connect!
+- 📧 Email: rvnrafsan@gmail.com
+- 💼 LinkedIn: [rarafsan](https://linkedin.com/in/rarafsan)
+
+---
+*Currently based in Seattle, WA 🌲*
