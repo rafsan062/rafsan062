@@ -1,7 +1,7 @@
 # Hi there, I'm Rizvan! 👋
 
 ### About Me
-I'm a graduate student pursuing an **M.Sc. in Computer Science** with a specialization in **Data Science** at Seattle University. With a background in Civil Engineering, I bring a unique perspective to solving complex problems through data and software engineering.
+I'm a graduate student pursuing **M.Sc. in Computer Science** with a specialization in **Data Science** at Seattle University. With a background in Civil Engineering, I bring a unique perspective to solving complex problems through data science and software engineering.
 
 ### Tech Stack
 - **Languages:** Python, Java, C/C++, SQL, JavaScript, TypeScript
