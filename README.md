@@ -1,7 +1,7 @@
 # Hi there, I'm Rizvan! 👋
 
 ###  About Me
-I'm a graduate student pursuing an **M.Sc. in Computer Science** with a specialization in **Data Science** at Seattle University. With a background in Civil Engineering and experience as a lecturer, I bring a unique perspective to solving complex problems through data and software engineering.
+I'm a graduate student pursuing **M.Sc. in Computer Science** with a specialization in **Data Science** at Seattle University. With a background in Civil Engineering, I bring a unique perspective to solving complex problems through data science and software engineering.
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -26,7 +26,6 @@ I'm a graduate student pursuing an **M.Sc. in Computer Science** with a speciali
 
 ### What I'm Working On
 - Building data-intensive systems and distributed applications
-- Exploring machine learning applications in environmental and public health domains
 - Developing full-stack solutions with a focus on data integrity and performance
 
 ### Highlights
