@@ -1,9 +1,9 @@
 # Hi there, I'm Rizvan! 👋
 
-### 🎓 About Me
+###  About Me
 I'm a graduate student pursuing an **M.Sc. in Computer Science** with a specialization in **Data Science** at Seattle University. With a background in Civil Engineering and experience as a lecturer, I bring a unique perspective to solving complex problems through data and software engineering.
 
-### 💻 Tech Stack
+### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -36,7 +36,7 @@ I'm a graduate student pursuing an **M.Sc. in Computer Science** with a speciali
 
 ### Let's Connect
 - Email: rvnrafsan@gmail.com
-- 💼 LinkedIn: [rarafsan](https://linkedin.com/in/rarafsan)
+- LinkedIn: [rarafsan](https://linkedin.com/in/rarafsan)
 
 ---
 *Currently based in Seattle, WA*
